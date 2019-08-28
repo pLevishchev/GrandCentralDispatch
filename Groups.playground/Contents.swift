@@ -1,8 +1,4 @@
 
-import UIKit
-import PlaygroundSupport
-
-PlaygroundPage.current.needsIndefiniteExecution = true
 
 
 let queue = DispatchQueue(label: "test", attributes: .concurrent)
